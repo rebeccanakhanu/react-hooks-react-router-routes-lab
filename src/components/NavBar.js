@@ -27,7 +27,7 @@ function NavBar() {
       </NavLink>
 
       <NavLink to="/directors" exact style={linkstyles}activeStyle={{
-        background: "blue"
+        background: "dark blue",
       }}
       >
         Directors
